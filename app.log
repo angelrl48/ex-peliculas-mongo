@@ -1,0 +1,122 @@
+2024-08-05 03:38:12,990 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 03:38:12,990 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 03:38:12,994 INFO  * Restarting with stat
+2024-08-05 03:38:13,374 WARNING  * Debugger is active!
+2024-08-05 03:38:13,380 INFO  * Debugger PIN: 110-477-717
+2024-08-05 03:38:34,292 INFO usuario usuario55 registrado correctamente
+2024-08-05 03:38:34,293 INFO 127.0.0.1 - - [05/Aug/2024 03:38:34] "[35m[1mPOST /registro HTTP/1.1[0m" 201 -
+2024-08-05 03:38:41,322 INFO usuario usuario55 iniciï¿½ sesiï¿½n correctamente
+2024-08-05 03:38:41,323 INFO 127.0.0.1 - - [05/Aug/2024 03:38:41] "POST /login HTTP/1.1" 200 -
+2024-08-05 03:39:30,940 WARNING El token ha expirado
+2024-08-05 03:39:30,940 INFO 127.0.0.1 - - [05/Aug/2024 03:39:30] "[31m[1mGET /peliculas HTTP/1.1[0m" 401 -
+2024-08-05 03:39:50,142 INFO 127.0.0.1 - - [05/Aug/2024 03:39:50] "[33mGET /peliculas HTTP/1.1[0m" 404 -
+2024-08-05 04:23:18,611 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 04:23:18,612 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 04:23:18,615 INFO  * Restarting with stat
+2024-08-05 04:23:18,991 WARNING  * Debugger is active!
+2024-08-05 04:23:18,996 INFO  * Debugger PIN: 110-477-717
+2024-08-05 04:23:34,888 INFO usuario usuario57 registrado correctamente
+2024-08-05 04:23:34,888 INFO 127.0.0.1 - - [05/Aug/2024 04:23:34] "[35m[1mPOST /registro HTTP/1.1[0m" 201 -
+2024-08-05 04:23:50,575 INFO usuario usuario57 iniciï¿½ sesiï¿½n correctamente
+2024-08-05 04:23:50,576 INFO 127.0.0.1 - - [05/Aug/2024 04:23:50] "POST /login HTTP/1.1" 200 -
+2024-08-05 04:24:04,594 INFO 127.0.0.1 - - [05/Aug/2024 04:24:04] "[33mGET /peliculas HTTP/1.1[0m" 404 -
+2024-08-05 04:34:06,450 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 04:34:06,450 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 04:34:06,454 INFO  * Restarting with stat
+2024-08-05 04:34:06,830 WARNING  * Debugger is active!
+2024-08-05 04:34:06,836 INFO  * Debugger PIN: 110-477-717
+2024-08-05 04:34:40,405 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 04:34:40,405 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 04:34:40,409 INFO  * Restarting with stat
+2024-08-05 04:34:40,785 WARNING  * Debugger is active!
+2024-08-05 04:34:40,791 INFO  * Debugger PIN: 110-477-717
+2024-08-05 04:34:52,339 WARNING Token no encontrado!
+2024-08-05 04:34:52,340 INFO 127.0.0.1 - - [05/Aug/2024 04:34:52] "[31m[1mGET /peliculas HTTP/1.1[0m" 401 -
+2024-08-05 04:34:52,562 INFO 127.0.0.1 - - [05/Aug/2024 04:34:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-05 04:36:23,314 INFO usuario usuario registrado correctamente
+2024-08-05 04:36:23,315 INFO 127.0.0.1 - - [05/Aug/2024 04:36:23] "[35m[1mPOST /registro HTTP/1.1[0m" 201 -
+2024-08-05 04:36:33,064 WARNING El registro ha fallado: El nombre de usuario usuario ya existe en la base de datos
+2024-08-05 04:36:33,064 INFO 127.0.0.1 - - [05/Aug/2024 04:36:33] "[31m[1mPOST /registro HTTP/1.1[0m" 400 -
+2024-08-05 04:37:15,626 WARNING El registro ha fallado: El nombre de usuario usuario ya existe en la base de datos
+2024-08-05 04:37:15,626 INFO 127.0.0.1 - - [05/Aug/2024 04:37:15] "[31m[1mPOST /registro HTTP/1.1[0m" 400 -
+2024-08-05 05:37:41,028 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 05:37:41,028 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 05:37:41,031 INFO  * Restarting with stat
+2024-08-05 05:37:41,411 WARNING  * Debugger is active!
+2024-08-05 05:37:41,417 INFO  * Debugger PIN: 110-477-717
+2024-08-05 05:38:00,573 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 05:38:00,573 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 05:38:00,577 INFO  * Restarting with stat
+2024-08-05 05:38:00,949 WARNING  * Debugger is active!
+2024-08-05 05:38:00,955 INFO  * Debugger PIN: 110-477-717
+2024-08-05 10:57:36,388 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 10:57:36,389 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 10:57:36,394 INFO  * Restarting with stat
+2024-08-05 10:57:36,778 WARNING  * Debugger is active!
+2024-08-05 10:57:36,784 INFO  * Debugger PIN: 110-477-717
+2024-08-05 10:57:58,596 INFO usuario usuario registrado correctamente
+2024-08-05 10:57:58,596 INFO 127.0.0.1 - - [05/Aug/2024 10:57:58] "[35m[1mPOST /registro HTTP/1.1[0m" 201 -
+2024-08-05 10:58:01,781 WARNING El registro ha fallado: El nombre de usuario usuario ya existe en la base de datos
+2024-08-05 10:58:01,781 INFO 127.0.0.1 - - [05/Aug/2024 10:58:01] "[31m[1mPOST /registro HTTP/1.1[0m" 400 -
+2024-08-05 10:58:09,937 INFO usuario usuario inició sesión correctamente
+2024-08-05 10:58:09,938 INFO 127.0.0.1 - - [05/Aug/2024 10:58:09] "POST /login HTTP/1.1" 200 -
+2024-08-05 10:58:30,047 INFO 127.0.0.1 - - [05/Aug/2024 10:58:30] "[33mGET /peliculas HTTP/1.1[0m" 404 -
+2024-08-05 10:58:40,075 INFO 127.0.0.1 - - [05/Aug/2024 10:58:40] "[33mGET /peliculas/66af4b8d880e8b893b0e4239 HTTP/1.1[0m" 404 -
+2024-08-05 10:58:53,282 INFO pelicula Batman añadida éxitosamente por el usuario usuario
+2024-08-05 10:58:53,282 INFO 127.0.0.1 - - [05/Aug/2024 10:58:53] "[35m[1mPOST /peliculas HTTP/1.1[0m" 201 -
+2024-08-05 10:59:03,482 INFO usuario usuario consultó la pelicula Batman
+2024-08-05 10:59:03,482 INFO 127.0.0.1 - - [05/Aug/2024 10:59:03] "GET /peliculas/66b104cd7fbb04b38ada72cf HTTP/1.1" 200 -
+2024-08-05 10:59:38,894 INFO pelicula con id 66b104cd7fbb04b38ada72cf actualizada correctamente por el usuario usuario
+2024-08-05 10:59:38,894 INFO 127.0.0.1 - - [05/Aug/2024 10:59:38] "PUT /peliculas/66b104cd7fbb04b38ada72cf HTTP/1.1" 200 -
+2024-08-05 11:00:04,643 ERROR Errror de validación al intentar añadir película: {'nombre': ['Shorter than minimum length 1.']}
+2024-08-05 11:00:04,643 INFO 127.0.0.1 - - [05/Aug/2024 11:00:04] "[31m[1mPOST /peliculas HTTP/1.1[0m" 400 -
+2024-08-05 11:00:46,170 ERROR Errror de validación al intentar añadir película: {'calificación': ['Must be greater than or equal to 0 and less than or equal to 10.']}
+2024-08-05 11:00:46,170 INFO 127.0.0.1 - - [05/Aug/2024 11:00:46] "[31m[1mPOST /peliculas HTTP/1.1[0m" 400 -
+2024-08-05 11:01:48,642 INFO pelicula con id 66b104cd7fbb04b38ada72cf eliminada correctamente por el usuario usuario
+2024-08-05 11:01:48,642 INFO 127.0.0.1 - - [05/Aug/2024 11:01:48] "DELETE /peliculas/66b104cd7fbb04b38ada72cf HTTP/1.1" 200 -
+2024-08-05 11:06:52,623 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:06:52,623 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 11:06:52,627 INFO  * Restarting with stat
+2024-08-05 11:06:52,999 WARNING  * Debugger is active!
+2024-08-05 11:06:53,006 INFO  * Debugger PIN: 110-477-717
+2024-08-05 11:07:11,714 WARNING Token no encontrado!
+2024-08-05 11:07:11,714 INFO 127.0.0.1 - - [05/Aug/2024 11:07:11] "[31m[1mGET /peliculas HTTP/1.1[0m" 401 -
+2024-08-05 11:07:11,735 INFO 127.0.0.1 - - [05/Aug/2024 11:07:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-05 11:32:25,363 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:32:25,364 INFO [33mPress CTRL+C to quit[0m
+2024-08-05 11:32:25,367 INFO  * Restarting with stat
+2024-08-05 11:32:25,740 WARNING  * Debugger is active!
+2024-08-05 11:32:25,747 INFO  * Debugger PIN: 110-477-717
+2024-08-05 11:32:40,816 WARNING Token no encontrado!
+2024-08-05 11:32:40,817 INFO 127.0.0.1 - - [05/Aug/2024 11:32:40] "[31m[1mGET /peliculas HTTP/1.1[0m" 401 -
+2024-08-05 11:33:09,528 INFO usuario prueba registrado correctamente
+2024-08-05 11:33:09,529 INFO 127.0.0.1 - - [05/Aug/2024 11:33:09] "[35m[1mPOST /registro HTTP/1.1[0m" 201 -
+2024-08-05 11:33:24,824 WARNING El registro ha fallado: El nombre de usuario prueba ya existe en la base de datos
+2024-08-05 11:33:24,824 INFO 127.0.0.1 - - [05/Aug/2024 11:33:24] "[31m[1mPOST /registro HTTP/1.1[0m" 400 -
+2024-08-05 11:34:20,383 WARNING Error al iniciar sesión para el usuario usuario
+2024-08-05 11:34:20,384 INFO 127.0.0.1 - - [05/Aug/2024 11:34:20] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-08-05 11:34:29,724 INFO usuario prueba inició sesión correctamente
+2024-08-05 11:34:29,724 INFO 127.0.0.1 - - [05/Aug/2024 11:34:29] "POST /login HTTP/1.1" 200 -
+2024-08-05 11:35:17,163 INFO 127.0.0.1 - - [05/Aug/2024 11:35:17] "[33mGET /peliculas HTTP/1.1[0m" 404 -
+2024-08-05 11:35:39,299 INFO 127.0.0.1 - - [05/Aug/2024 11:35:39] "[33mGET /peliculas/66b104cd7fbb04b38ada72cf HTTP/1.1[0m" 404 -
+2024-08-05 11:36:23,261 ERROR Errror de validación al intentar añadir película: {'calificación': ['Must be greater than or equal to 0 and less than or equal to 10.']}
+2024-08-05 11:36:23,261 INFO 127.0.0.1 - - [05/Aug/2024 11:36:23] "[31m[1mPOST /peliculas HTTP/1.1[0m" 400 -
+2024-08-05 11:36:36,457 ERROR Errror de validación al intentar añadir película: {'nombre': ['Shorter than minimum length 1.']}
+2024-08-05 11:36:36,458 INFO 127.0.0.1 - - [05/Aug/2024 11:36:36] "[31m[1mPOST /peliculas HTTP/1.1[0m" 400 -
+2024-08-05 11:36:43,898 INFO pelicula Batman añadida éxitosamente por el usuario prueba
+2024-08-05 11:36:43,898 INFO 127.0.0.1 - - [05/Aug/2024 11:36:43] "[35m[1mPOST /peliculas HTTP/1.1[0m" 201 -
+2024-08-05 11:37:42,885 WARNING pelicula con id 66b104cd7fbb04b38ada72cf no encontrada para actualización
+2024-08-05 11:37:42,885 INFO 127.0.0.1 - - [05/Aug/2024 11:37:42] "[33mPUT /peliculas/66b104cd7fbb04b38ada72cf HTTP/1.1[0m" 404 -
+2024-08-05 11:37:55,375 INFO pelicula con id 66b10dab6ff952d5b6c8f324 actualizada correctamente por el usuario prueba
+2024-08-05 11:37:55,376 INFO 127.0.0.1 - - [05/Aug/2024 11:37:55] "PUT /peliculas/66b10dab6ff952d5b6c8f324 HTTP/1.1" 200 -
+2024-08-05 11:38:48,794 INFO pelicula con id 66b10dab6ff952d5b6c8f324 eliminada correctamente por el usuario prueba
+2024-08-05 11:38:48,794 INFO 127.0.0.1 - - [05/Aug/2024 11:38:48] "DELETE /peliculas/66b10dab6ff952d5b6c8f324 HTTP/1.1" 200 -
